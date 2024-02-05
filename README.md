@@ -43,7 +43,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,azure,bootstrap,bash,c,cpp,css,discord,docker,dart,express,figma,firebase,github,html,heroku,idea,java,js,linux,md,materialui,mongodb,mysql,nodejs,postman,py,react,rabbitmq,redis,vscode&perline=14" />
   </a>
 </p>
 <hr>
