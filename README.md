@@ -1,4 +1,11 @@
-### Hi there 👋
+
+<!--Hi text-->
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="100"/>
+</p>
+<hr>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Naheed Rayan</h2>
+
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
