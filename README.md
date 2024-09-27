@@ -11,13 +11,13 @@
 </div>
 
 <!--text-->
-- 🔭 I’m currently working on ...**Langchain , React , streamlit , chromaDB , vector embedding , NLP , LLM , ML**
-- 🌱 I’m currently learning ...**LLM , vector embedding**
-- 👯 I’m looking to collaborate on ...**ChromaDB , vector embedding , NLP , LLM , ML**
-- 🤔 I’m looking for help with ...****
-- 💬 Ask me about ...**Anything**
-- 📫 How to reach me: ...**naheed27ray@gmail.com**
-- ⚡ Fun fact: ...**Love is a 5 letter word,cause its incomplete without u**
+- 🔭 I’m currently working on **Langchain, React, Streamlit, ChromaDB, Vector Embedding, NLP, LLM, ML**
+- 🌱 I’m currently learning **LLM, Vector Embedding**
+- 👯 I’m looking to collaborate on **ChromaDB, Vector Embedding, NLP, LLM, ML**
+- 🤔 I’m looking for help with **NLP, LLM Optimization**
+- 💬 Ask me about **Anything related to DevOps, Backend Engineering, AI/ML, or Programming**
+- 📫 How to reach me: **naheed27ray@gmail.com**
+- ⚡ Fun fact: **Love is a 5-letter word because it's incomplete without U!**
 
 
 <hr>
