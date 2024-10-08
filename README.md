@@ -44,12 +44,12 @@ Here is a structured awards and projects list for Naheed Rayhan based on the pro
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                   NASA Space Apps Challange 2024              |  [Landsat Pulse][projShow] | Champion (Dhaka division)                                                                      |
-|                   Sydney Coding Fest 2024                     |  [Project Showcasing][projShow] | 4th                                                                        |
-|          CSE Day Festival 2024 Intra University               | Poster Presentation           | [Champion][cseDay]                                                                        |
+|                   NASA Space Apps Challange 2024              |  [Landsat Pulse][nasa] | Champion 🏆(Dhaka division)                                                                      |
+|                   Sydney Coding Fest 2024                     |  [Answer Analyzer][projShow] | 4th                                                                        |
+|          CSE Day Festival 2024 Intra University               | Poster Presentation           | [Champion 🏆][cseDay]                                                                        |
 |          CSE Day Festival 2024 Intra University               | [Project Showcasing][projShow] | Ranked 5th                                                                                |
-|      SUST SWE Technovent Hackathon 2023                       |   [Garage Chai][garageChai]    | [11th rank][projShow]                                                                |
-|          CSE Day Festival 2023 Intra University               | [Project Showcasing][garageChai] | [1st Runner-Up][cseDay]                                                                   |
+|      SUST SWE Technovent Hackathon 2023                       |   [Garage Chai][porjShow]    | [11th rank][projShow]                                                                |
+|          CSE Day Festival 2023 Intra University               | [Project Showcasing][porjShow] | [1st Runner-Up][cseDay]                                                                   |
 |          CSE Day Festival 2023 Intra University               | [Online Code Compiler][compiler] | [2nd Runner-Up][cseDay]                                                                   |
 |      Nectar Robotic Olympiad 2023                             | Line Following Robot Segment   | Ranked 9th                                                                                |
 |      Nectar Robotic Olympiad 2022                             | Line Following Robot Segment   | Ranked 15th                                                                               |
@@ -71,6 +71,7 @@ Here is a structured awards and projects list for Naheed Rayhan based on the pro
 [compiler]: https://github.com/NaheedRayan/code-execution-engine-v2
 [chatApp]: https://github.com/NaheedRayan/link_chat_app
 [jarvis]: https://github.com/NaheedRayan/personal_assistant
+[nasa]: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/quantum-voyagers/
 [cseDay]: #
 [projShow]: #
 
