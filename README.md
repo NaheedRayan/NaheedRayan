@@ -1,28 +1,20 @@
 
 <!--Hi text-->
+<h1 align="center">Hi 👋, I'm Naheed Rayhan</h1>
+<h3 align="center">MSc student at Jagannath University</a></h3>
 
-<h2 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Naheed Rayan</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NaheedRayan&label=Profile%20views&color=0e75b6&style=flat" alt="NaheedRayan" /> </p>
 
-<!--Snake-->
-<div align="left">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaheedRayan" alt="NaheedRayan" /></a> </p>
 
-<!--text-->
-- 🔭 I’m currently working on **Langchain, React, Streamlit, ChromaDB, Vector Embedding, NLP, LLM, ML**
-- 🌱 I’m currently learning **LLM, Vector Embedding**
-- 👯 I’m looking to collaborate on **ChromaDB, Vector Embedding, NLP, LLM, ML**
-- 🤔 I’m looking for help with **NLP, LLM Optimization**
-- 💬 Ask me about **Anything related to DevOps, Backend Engineering, AI/ML, or Programming**
-- 📫 How to reach me: **naheed27ray@gmail.com**
-- ⚡ Fun fact: **Love is a 5-letter word because it's incomplete without U!**
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaheedRayan&show_icons=true&locale=en&layout=compact" alt="NaheedRayan" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NaheedRayan&show_icons=true&locale=en" alt="NaheedRayan" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaheedRayan&" alt="NaheedRayan" /></p>
 
+- 📫 How to reach me **naheed27ray@gmail.com**
 
-<hr>
 <!--statistics-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaheedRayan&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -33,13 +25,65 @@
 </a>
 
 
-<hr>
+<hr> -->
+
+<!-- Connect with me -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhm69" height="30" width="40" /></a>
+<a href="https://www.facebook.com/naheed.rayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhm69" height="30" width="40" /></a>
+<a href="https://www.instagram.com/naheedrayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhm69" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@naheedrayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Jahangir Hossain" height="30" width="40" /></a>
+</p>
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+
+Here is a structured awards and projects list for Naheed Rayhan based on the provided content:
+
+## AWARDS
+
+|                       Competition Name                        |         Project Name          | Achievement                                                                               |
+| :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
+|                   NASA Space Apps Challange 2024              |  [Landsat Pulse][projShow] | Champion (Dhaka division)                                                                      |
+|                   Sydney Coding Fest 2024                     |  [Project Showcasing][projShow] | 4th                                                                        |
+|          CSE Day Festival 2024 Intra University               | Poster Presentation           | [Champion][cseDay]                                                                        |
+|          CSE Day Festival 2024 Intra University               | [Project Showcasing][projShow] | Ranked 5th                                                                                |
+|      SUST SWE Technovent Hackathon 2023                       |   [Garage Chai][garageChai]    | [11th rank][projShow]                                                                |
+|          CSE Day Festival 2023 Intra University               | [Project Showcasing][garageChai] | [1st Runner-Up][cseDay]                                                                   |
+|          CSE Day Festival 2023 Intra University               | [Online Code Compiler][compiler] | [2nd Runner-Up][cseDay]                                                                   |
+|      Nectar Robotic Olympiad 2023                             | Line Following Robot Segment   | Ranked 9th                                                                                |
+|      Nectar Robotic Olympiad 2022                             | Line Following Robot Segment   | Ranked 15th                                                                               |
+|      AUST ICPC 2022                                           | Programming Contest           | Ranked 45th                                                                               |
+
+## WORK
+
+|                                     Work Description                                     |      Work Title      | Link                                      |
+| :--------------------------------------------------------------------------------------: | :------------------: | :---------------------------------------- |
+| Developed Gemini-driven AI for smarter Linux terminal experience                         | [MinusOne][minusOne] | [See Code][minusOne]                      |
+| REST API using Golang and MUX with Pocketbase backend                                    | [GO API Template][goApi] | [See Code][goApi]                          |
+| Developed Online Code Compiler and API to execute scripts in a Sandbox Environment       | [Online Compiler][compiler] | [See Code][compiler]                        |
+| Created an RSA Encryption-based Chat App with Flutter                                    | [Chat App][chatApp]  | [See Code][chatApp]                        |
+| Developed LLM-powered AI chatbot in Telegram                                             | [JARVIS][jarvis]     | [See Code][jarvis]                         |
+
+<!-- links -->
+[minusOne]: https://github.com/NaheedRayan/minus1
+[goApi]: https://github.com/NaheedRayan/go_api_pocketbase_template
+[compiler]: https://github.com/NaheedRayan/code-execution-engine-v2
+[chatApp]: https://github.com/NaheedRayan/link_chat_app
+[jarvis]: https://github.com/NaheedRayan/personal_assistant
+[cseDay]: #
+[projShow]: #
+
+
+
+
+
+
+
+
+<h3 align="left">Technologies That I Know👨🏻‍💻</h3>
+
+
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -47,24 +91,6 @@
   </a>
 </p>
 <hr>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="left">
-<a href="https://www.linkedin.com/in/naheed-rayan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<!-- <a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>  -->
-<a href="https://www.instagram.com/naheedrayan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<!-- <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a> -->
-<!-- <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->
-  
-</p>
 
 
 
