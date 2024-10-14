@@ -1,7 +1,7 @@
 
 <!--Hi text-->
 <h1 align="center">Hi 👋, I'm Naheed Rayhan</h1>
-<h3 align="center">CSE student at Jagannath University working as Software Engineer at [@SimpliSolve](https://simplisolve.us/)</a></h3>
+<h3 align="center">CSE student at Jagannath University working as Software Engineer at [SimpliSolve](https://simplisolve.us/) </a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NaheedRayan&label=Profile%20views&color=0e75b6&style=flat" alt="NaheedRayan" /> </p>
 
