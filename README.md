@@ -6,9 +6,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaheedRayan" alt="NaheedRayan" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaheedRayan&show_icons=true&locale=en&layout=compact" alt="NaheedRayan" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NaheedRayan&show_icons=true&locale=en" alt="NaheedRayan" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaheedRayan&" alt="NaheedRayan" /></p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=NaheedRayan&show_icons=true&locale=en&card_width=300" alt="NaheedRayan Stats" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #fff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaheedRayan&card_width=400" alt="NaheedRayan Streak Stats" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #fff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaheedRayan&show_icons=true&locale=en&layout=compact&card_width=600" alt="NaheedRayan Top Languages" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #fff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+
+</div>
+
+
+
+
 
 - 📫 How to reach me **naheed27ray@gmail.com**
 
