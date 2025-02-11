@@ -15,7 +15,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaheedRayan" />
 </a>
 <a href="https://github.com/naheed/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaheedRayan&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaheedRayan&layout=compact&langs_count=8&hide=python&card_width=320" />
 </a>
 
 
@@ -87,7 +87,12 @@ Here is a structured awards and projects list for Naheed Rayhan based on the pro
 
 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=mini_rest_api_clean_architecture" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=mini_rest_api_clean_architecture" />
+</a>
 
 
 
