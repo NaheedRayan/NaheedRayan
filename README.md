@@ -2,21 +2,21 @@
 <h1 align="center">Hi 👋, I'm Naheed Rayhan</h1>
 <h3 align="center">CSE student at Jagannath University and Software Engineer</h3>
 
+
+
+<!--views-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NaheedRayan&label=Profile%20views&color=0e75b6&style=flat" alt="NaheedRayan" /> </p>
 
+<!--Trophies-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaheedRayan" alt="NaheedRayan" /></a> </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=NaheedRayan&show_icons=true&locale=en&card_width=300" alt="NaheedRayan Stats" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #fff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaheedRayan&card_width=400" alt="NaheedRayan Streak Stats" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #fff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaheedRayan&show_icons=true&locale=en&layout=compact&card_width=600" alt="NaheedRayan Top Languages" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #fff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-
-</div>
-
+<!--stat cards-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaheedRayan" />
+</a>
+<a href="https://github.com/naheed/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaheedRayan&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
