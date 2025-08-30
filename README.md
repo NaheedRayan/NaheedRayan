@@ -21,6 +21,150 @@
 
 
 
+
+## Awards & Achievements
+
+| Competition                                   | Project/Category                | Achievement           |
+|-----------------------------------------------|---------------------------------|-----------------------|
+| **NASA Space Apps Challenge 2024 (Dhaka)**    | *Landsat Pulse*                 | Champion 🏆           |
+| **Sydney Coding Fest 2024**                   | *Answer Analyzer*              | 4th Place             |
+| **CSE Day Festival 2024 (Intra-University)**  | Poster Presentation            | Champion 🏆           |
+| **CSE Day Festival 2024 (Intra-University)**  | Project Showcasing             | 5th Place             |
+| **SUST SWE Technovent Hackathon 2023**        | *Garage Chai*                  | 11th Place            |
+| **CSE Day Festival 2023 (Intra-University)**  | Project Showcasing             | 1st Runner-Up 🥈      |
+| **CSE Day Festival 2023 (Intra-University)**  | Online Code Compiler           | 2nd Runner-Up 🥉      |
+| **NECTAR Robotic Olympiad 2023**              | Line-Following Robot           | 9th Place             |
+| **NECTAR Robotic Olympiad 2022**              | Line-Following Robot           | 15th Place            |
+| **AUST ICPC 2022**                            | Programming Contest            | 45th Place            |
+
+## WORK
+
+
+<!-- links -->
+[minusOne]: https://github.com/NaheedRayan/minus1
+[goApi]: https://github.com/NaheedRayan/go_api_pocketbase_template
+[compiler]: https://github.com/NaheedRayan/code-execution-engine-v2
+[chatApp]: https://github.com/NaheedRayan/link_chat_app
+[jarvis]: https://github.com/NaheedRayan/personal_assistant
+[nasa]: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/quantum-voyagers/
+[cseDay]: #
+[projShow]: #
+
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=openrouter-go" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=minus1" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=AnswerAnalyzer" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=nextjs-auth-template" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=database_time_migration" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=JWT_Golang" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=MongoDB_Golang_REST_API" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=GraphQL_elearning_platform_api" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=clean-architecture-REST-API" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=TimeSeries-Forcasting-of-temperature--CNN-LSTM-" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=agile-coach-2.1" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Packman" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Candy_Cat" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Flappy_Bird" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=code-execution-engine-v2" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=graphics_project_opengl" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=book_info_mern_app" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Nighttime_road_contrast_enhancement" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=LFR" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=personal_assistant" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=code-execution-engine" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=online-code-editor" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=link_chat_app" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Subnet_Mask_Scanner" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Chat-Room-using-Socket" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Classic_Snake_Game" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=flask-chat-app-v1" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Basic-Quantum-Simulator" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=LL1_parsing_table" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=automation-adb-comment-bot" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=automation-adb-egginc" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Bluetooth-terminal-simple" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Student-Management-System" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Student_Information_System" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=CSE10" />
+</a>
+
+
+
+
+
+
 - 📫 How to reach me **naheed27ray@gmail.com**
 
 <!--statistics-->
@@ -49,50 +193,6 @@
 <!--h1 without bottom border-->
 
 Here is a structured awards and projects list for Naheed Rayhan based on the provided content:
-
-## AWARDS
-
-|                       Competition Name                        |         Project Name          | Achievement                                                                               |
-| :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                   NASA Space Apps Challange 2024              |  [Landsat Pulse][nasa] | Champion 🏆(Dhaka division)                                                                      |
-|                   Sydney Coding Fest 2024                     |  [Answer Analyzer][projShow] | 4th                                                                        |
-|          CSE Day Festival 2024 Intra University               | Poster Presentation           | [Champion 🏆][cseDay]                                                                        |
-|          CSE Day Festival 2024 Intra University               | [Project Showcasing][projShow] | Ranked 5th                                                                                |
-|      SUST SWE Technovent Hackathon 2023                       |   [Garage Chai][porjShow]    | [11th rank][projShow]                                                                |
-|          CSE Day Festival 2023 Intra University               | [Project Showcasing][porjShow] | [1st Runner-Up][cseDay]                                                                   |
-|          CSE Day Festival 2023 Intra University               | [Online Code Compiler][compiler] | [2nd Runner-Up][cseDay]                                                                   |
-|      Nectar Robotic Olympiad 2023                             | Line Following Robot Segment   | Ranked 9th                                                                                |
-|      Nectar Robotic Olympiad 2022                             | Line Following Robot Segment   | Ranked 15th                                                                               |
-|      AUST ICPC 2022                                           | Programming Contest           | Ranked 45th                                                                               |
-
-## WORK
-
-|                                     Work Description                                     |      Work Title      | Link                                      |
-| :--------------------------------------------------------------------------------------: | :------------------: | :---------------------------------------- |
-| Developed Gemini-driven AI for smarter Linux terminal experience                         | [MinusOne][minusOne] | [See Code][minusOne]                      |
-| REST API using Golang and MUX with Pocketbase backend                                    | [GO API Template][goApi] | [See Code][goApi]                          |
-| Developed Online Code Compiler and API to execute scripts in a Sandbox Environment       | [Online Compiler][compiler] | [See Code][compiler]                        |
-| Created an RSA Encryption-based Chat App with Flutter                                    | [Chat App][chatApp]  | [See Code][chatApp]                        |
-| Developed LLM-powered AI chatbot in Telegram                                             | [JARVIS][jarvis]     | [See Code][jarvis]                         |
-
-<!-- links -->
-[minusOne]: https://github.com/NaheedRayan/minus1
-[goApi]: https://github.com/NaheedRayan/go_api_pocketbase_template
-[compiler]: https://github.com/NaheedRayan/code-execution-engine-v2
-[chatApp]: https://github.com/NaheedRayan/link_chat_app
-[jarvis]: https://github.com/NaheedRayan/personal_assistant
-[nasa]: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/quantum-voyagers/
-[cseDay]: #
-[projShow]: #
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=mini_rest_api_clean_architecture" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=mini_rest_api_clean_architecture" />
-</a>
 
 
 
