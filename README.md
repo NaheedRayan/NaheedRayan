@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Naheed Rayhan</h1>
-<h3 align="center">CSE student at Jagannath University and Software Engineer</h3>
+<h3 align="center">Enthusiastic Software Engineer & AI Researcher</h3>
 
-I'm a computer science student at Jagannath University in Dhaka, Bangladesh, and an aspiring software engineer with a keen interest in machine learning and full-stack development. I love solving real-world problems through code and have been recognized in several hackathons and programming contests (including being the Dhaka Division Champion of NASA's Space Apps Challenge 2024). When I'm not coding, I'm exploring new technologies, contributing to open source, or sharing knowledge with the community.
+I am an Enthusiastic Software Engineer & AI Researcher passionate about Large Language Models, cloud-native AI, and security. I’ve built scalable AI systems, led Generative AI projects, and am working on LLM security and the medical AI research field. From winning NASA’s Space Apps Challenge to driving real-world AI solutions, I bring curiosity, energy, and impact to every project I take on.
 
 
 
@@ -257,33 +257,22 @@ I'm a computer science student at Jagannath University in Dhaka, Bangladesh, and
 
 
 
-## How to reach me
-- 📫 How to reach me **naheed.rayhan.cs@gmail.com**
 
-<!--statistics-->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaheedRayan&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaheedRayan&langs_count=10&layout=compact&theme=dracula" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=NaheedRayan&theme=dracula">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaheedRayan&theme=dracula" />
-</a>
+## 📬 How to Reach Me
 
+**Email:** [naheed.rayhan.cs@gmail.com](mailto:naheed.rayhan.cs@gmail.com)  
+**LinkedIn:** [naheed-rayan](https://www.linkedin.com/in/naheed-rayan/)
 
-<hr> -->
+---
 
-<!-- Connect with me -->
+## 🌐 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhm69" height="30" width="40" /></a>
-<a href="https://www.facebook.com/naheed.rayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhm69" height="30" width="40" /></a>
-<a href="https://www.instagram.com/naheedrayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhm69" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@naheedrayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Naheed Rayhan" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/" target="_blank">Twitter</a> ·
+  <a href="https://www.facebook.com/naheed.rayan/" target="_blank">Facebook</a> ·
+  <a href="https://www.instagram.com/naheedrayan/" target="_blank">Instagram</a> ·
+  <a href="https://www.youtube.com/@naheedrayan" target="_blank">YouTube</a> ·
+  <a href="https://www.linkedin.com/in/naheed-rayan/" target="_blank">LinkedIn</a> ·
+  <a href="mailto:naheed.rayhan.cs@gmail.com" target="_blank">Email</a>
 </p>
-<!--h1 without bottom border-->
-
-
 
