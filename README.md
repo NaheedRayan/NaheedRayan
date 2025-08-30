@@ -37,22 +37,9 @@
 | **NECTAR Robotic Olympiad 2022**              | Line-Following Robot           | 15th Place            |
 | **AUST ICPC 2022**                            | Programming Contest            | 45th Place            |
 
-## WORK
 
 
-<!-- links -->
-[minusOne]: https://github.com/NaheedRayan/minus1
-[goApi]: https://github.com/NaheedRayan/go_api_pocketbase_template
-[compiler]: https://github.com/NaheedRayan/code-execution-engine-v2
-[chatApp]: https://github.com/NaheedRayan/link_chat_app
-[jarvis]: https://github.com/NaheedRayan/personal_assistant
-[nasa]: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/quantum-voyagers/
-[cseDay]: #
-[projShow]: #
-
-
-
-
+## Projects along the way
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=openrouter-go" />
@@ -108,9 +95,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=Nighttime_road_contrast_enhancement" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=LFR" />
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaheedRayan&repo=personal_assistant" />
 </a>
@@ -162,7 +149,15 @@
 
 
 
-
+<!-- links -->
+[minusOne]: https://github.com/NaheedRayan/minus1
+[goApi]: https://github.com/NaheedRayan/go_api_pocketbase_template
+[compiler]: https://github.com/NaheedRayan/code-execution-engine-v2
+[chatApp]: https://github.com/NaheedRayan/link_chat_app
+[jarvis]: https://github.com/NaheedRayan/personal_assistant
+[nasa]: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/quantum-voyagers/
+[cseDay]: #
+[projShow]: #
 
 
 - 📫 How to reach me **naheed27ray@gmail.com**
