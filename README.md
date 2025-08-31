@@ -48,14 +48,15 @@ I am an Enthusiastic Software Engineer & AI Researcher passionate about Large La
 
 ## 📚 Research
 
-| Title                                                                 | Venue / Year                          | Status            |
-|-----------------------------------------------------------------------|---------------------------------------|-------------------|
-| [Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in LLMs](https://ndss26-fall) | NDSS 2026 (Security Symposium), 2025  | Under Review      |
-| [Latent Representation & Generative Augmentation for Leukocyte Cytomorphology Classification](https://ieee.org/i-coste2025) | IEEE i-COSTE 2025                     | Under Review      |
-| [Leaf Diseases Prediction using CNN Models: Performance Analysis](https://www.mdpi.com/) | MDPI, 2025                            | Under Review      |
-| [LLM Enhancer: Reducing Hallucinations with Vector Embeddings](https://arxiv.org/abs/2504.21132) | arXiv Preprint, 2023                  | Self-archived Thesis |
+| Title                                                                 | Venue / Year                          | Status            | Link |
+|-----------------------------------------------------------------------|---------------------------------------|-------------------|------|
+| **Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in LLMs** | NDSS 2026 (Security Symposium), 2025  | Under Review      | [🔗](https://ndss26-fall) |
+| **Latent Representation & Generative Augmentation for Leukocyte Cytomorphology Classification** | IEEE i-COSTE 2025                     | Under Review      | [🔗](https://ieee.org/i-coste2025) |
+| **Leaf Diseases Prediction using CNN Models: Performance Analysis**   | MDPI, 2025                            | Under Review      | [🔗](https://www.mdpi.com/) |
+| **LLM Enhancer: Reducing Hallucinations with Vector Embeddings**      | arXiv Preprint, 2023                  | Self-archived Thesis | [🔗](https://arxiv.org/abs/2504.21132) |
 
 </div>
+
 
 
 <div align="center">
