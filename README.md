@@ -8,18 +8,20 @@ I am an Enthusiastic Software Engineer & AI Researcher passionate about Large La
 
 
 <!--views-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NaheedRayan&label=Profile%20views&color=0e75b6&style=flat" alt="NaheedRayan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NaheedRayan&label=Profile%20views&color=0e75b6&style=flat" alt="NaheedRayan" /> </p>
 
 <!--Trophies-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaheedRayan" alt="NaheedRayan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaheedRayan&title=-PullRequest,-Reviews,-Issues&row=1&column=6" alt="NaheedRayan" /></a> </p>
 
 <!--stat cards-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaheedRayan&cache_seconds=86400&rank_icon=github" />
-</a>
-<a href="https://github.com/naheed/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaheedRayan&layout=compact&langs_count=8&hide=python&size_weight=0.5&count_weight=0.5&card_width=320" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=NaheedRayan&cache_seconds=86400&rank_icon=github" />
+  </a>
+  <a href="https://github.com/naheed/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=NaheedRayan&layout=compact&langs_count=8&hide=python&size_weight=0.5&count_weight=0.5&card_width=320" />
+  </a>
+</p>
 
 
 
