@@ -24,9 +24,9 @@ I am an Enthusiastic Software Engineer & AI Researcher passionate about Large La
 </p>
 
 
+<div align="center">
 
-
-## Awards & Achievements
+## 🏅 Awards & Achievements
 
 | Competition                                   | Project/Category                | Achievement           |
 |-----------------------------------------------|---------------------------------|-----------------------|
@@ -41,6 +41,10 @@ I am an Enthusiastic Software Engineer & AI Researcher passionate about Large La
 | **NECTAR Robotic Olympiad 2022**              | Line-Following Robot           | 15th Place            |
 | **AUST ICPC 2022**                            | Programming Contest            | 45th Place            |
 
+</div>
+
+<div align="center">
+  
 ## 🛠️ Skills & Expertise  
 
 <table>
@@ -148,7 +152,10 @@ I am an Enthusiastic Software Engineer & AI Researcher passionate about Large La
 </tr>
 </table>
 
+</div>
 
+<div align="center">
+  
 ## Projects along the way
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -258,16 +265,23 @@ I am an Enthusiastic Software Engineer & AI Researcher passionate about Large La
 </a>
 
 
+</div>
 
-
+<div align="center">
+  
 ## 📬 How to Reach Me
 
 **Email:** [naheed.rayhan.cs@gmail.com](mailto:naheed.rayhan.cs@gmail.com)  
 **LinkedIn:** [naheed-rayan](https://www.linkedin.com/in/naheed-rayan/)
 
+</div>
 ---
 
+<div align="center">
+  
 ## 🌐 Connect with Me
+
+</div>
 
 <p align="center">
   <a href="https://twitter.com/" target="_blank">Twitter</a> ·
