@@ -43,6 +43,21 @@ I am an Enthusiastic Software Engineer & AI Researcher passionate about Large La
 
 </div>
 
+
+<div align="center">
+
+## 📚 Research
+
+| Title                                                                 | Venue / Year                          | Status            |
+|-----------------------------------------------------------------------|---------------------------------------|-------------------|
+| [Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in LLMs](https://ndss26-fall.hotcrp.com/paper/1779) | NDSS 2026 (Security Symposium), 2025  | Under Review      |
+| [Latent Representation & Generative Augmentation for Leukocyte Cytomorphology Classification](https://ieee.org/i-coste2025) | IEEE i-COSTE 2025                     | Under Review      |
+| [Leaf Diseases Prediction using CNN Models: Performance Analysis](https://www.mdpi.com/) | MDPI, 2025                            | Under Review      |
+| [LLM Enhancer: Reducing Hallucinations with Vector Embeddings](https://arxiv.org/abs/2504.21132) | arXiv Preprint, 2023                  | Self-archived Thesis |
+
+</div>
+
+
 <div align="center">
   
 ## 🛠️ Skills & Expertise  
