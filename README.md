@@ -15,10 +15,10 @@ I am an Enthusiastic Software Engineer & AI Researcher passionate about Large La
 
 <!--stat cards-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaheedRayan" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaheedRayan&cache_seconds=86400&rank_icon=github" />
 </a>
 <a href="https://github.com/naheed/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaheedRayan&layout=compact&langs_count=8&hide=python&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaheedRayan&layout=compact&langs_count=8&hide=python&size_weight=0.5&count_weight=0.5&card_width=320" />
 </a>
 
 
